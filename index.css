@@ -1,0 +1,12 @@
+.root{
+    border: 1px solid red;
+    padding: 3rem;
+}
+
+.content{
+    border: 1px solid black;
+    display: inline-block;
+    width: 2rem;
+    background-color: aqua;
+    margin: 2rem;
+}
